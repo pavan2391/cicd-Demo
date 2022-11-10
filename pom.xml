@@ -37,7 +37,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>${username}</username>
 						<password>${password}</password>
-						<applicationName>cicidemo-1</applicationName>
+						<applicationName>cicidemo_1</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
