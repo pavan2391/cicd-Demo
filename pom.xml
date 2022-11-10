@@ -36,7 +36,7 @@
       <username>${platform_username}</username>
       <password>${platform_password}</password>
       <applicationName>cicdDemo-1</applicationName>
-      <environment>Dev</environment>
+      <environment>Sandbox</environment>
       <workers>1</workers>
       <workerType>MICRO</workerType>
       <objectStoreV2>true</objectStoreV2>
