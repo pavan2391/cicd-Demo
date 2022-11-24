@@ -33,7 +33,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
-						<username>santhikumari2391</username>
+						<username>durga2391</username>
 						<password>Hcltech@1234</password>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
